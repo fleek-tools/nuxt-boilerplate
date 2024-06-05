@@ -1,4 +1,6 @@
 # Nuxt + Fleek Starter Kit
+![Nuxt Boilerplate](https://github.com/fleek-tools/nuxt-template/assets/74613246/614fa65c-e839-4ff0-8692-be7a3df55169)
+
 
 Static site starter application built on Nuxt. Output directory set to `.output/public` and build command `pnpm install && pnpm generate`.
 
