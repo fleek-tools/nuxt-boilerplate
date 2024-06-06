@@ -1,4 +1,4 @@
-# Nuxt + Fleek Starter Kit
+# Nuxt Boilerplate
 ![Nuxt Boilerplate](https://github.com/fleek-tools/nuxt-template/assets/74613246/614fa65c-e839-4ff0-8692-be7a3df55169)
 
 
